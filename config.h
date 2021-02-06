@@ -15,7 +15,7 @@ static const Block blocks[] = {
 	//{"",	"pacpackages",	0,	8},
 	//{"",	"gcal",	        600,	0},
 	//{"",	"spanish_word",	600,	0},
-	{"",	"corona",	18000,	0},
+	{"",	"active_cases",	18000,	0},
 	//{"",	"crypto",	0,	13},
 	/* {"",	"price bat \"Basic Attention Token\" 🦁",	0,	20}, */
 	/* {"",	"price btc Bitcoin 💰",				0,	21}, */
