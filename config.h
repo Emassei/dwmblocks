@@ -13,7 +13,7 @@ static const Block blocks[] = {
 	//{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	/* {"",	"music",	0,	11},*/
 	//{"",	"pacpackages",	0,	8},
-	{"",	"pico_y_placa", 18000,	0},
+	//{"",	"pico_y_placa", 18000,	0},
 	{"",	"docker_status", 60,	0},
 	{"",	"ufc_events",	18000,	0},
 	{"",	"active_cases",	120,	0},
