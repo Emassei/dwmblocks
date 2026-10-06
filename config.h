@@ -13,10 +13,10 @@ static const Block blocks[] = {
 	//{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	/* {"",	"music",	0,	11},*/
 	//{"",	"pacpackages",	0,	8},
-	{"",	"pico_y_placa", 1800,	0},
+	//{"",	"pico_y_placa", 1800,	0},   // Armenia moto API dead (2026-10-05)
 	{"",	"docker_status", 60,	0},
 	//{"",	"ufc_events",	18000,	0},
-	{"",	"active_cases",	120,	0},
+	//{"",	"active_cases",	120,	0},   // 2020 covid dashboard gone (2026-10-05)
 	//{"",	"crypto",	0,	13},
 	/* {"",	"price bat \"Basic Attention Token\" 🦁",	0,	20}, */
 	/* {"",	"price btc Bitcoin 💰",				0,	21}, */
